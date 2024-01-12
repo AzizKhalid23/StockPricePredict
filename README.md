@@ -38,6 +38,9 @@ The script generates a plot comparing actual and predicted stock prices.
 The final prediction for the next day's stock price is displayed.
 Feel free to explore and experiment with different companies, date ranges, and model hyperparameters. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or contribute.
 
+Disclaimer
+This stock price prediction model is for educational and experimental purposes only. It may not be 100% accurate, and its predictions should not be considered as financial advice. Always consult with a qualified financial professional before making any investment decisions.
+
 
 
 
