@@ -8,7 +8,9 @@ from sklearn.preprocessing import MinMaxScaler
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import  Dense, Dropout, LSTM
 
-company = 'NVDA'
+
+## Stock symbols
+company = ''
 
 start = dt.datetime(2019,1,1)
 end = dt.datetime(2024,1,1)
